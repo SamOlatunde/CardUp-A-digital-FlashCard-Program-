@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Digital Falshcard Program\Digital Falshcard Program\bin\Debug\Digital Falshcard Program.exe.config
+C:\Users\User\source\repos\Digital Falshcard Program\Digital Falshcard Program\bin\Debug\Digital Falshcard Program.exe
+C:\Users\User\source\repos\Digital Falshcard Program\Digital Falshcard Program\bin\Debug\Digital Falshcard Program.pdb
+C:\Users\User\source\repos\Digital Falshcard Program\Digital Falshcard Program\obj\Debug\Digital Falshcard Program.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Digital Falshcard Program\Digital Falshcard Program\obj\Debug\Digital_Falshcard_Program.DigiCards.resources
+C:\Users\User\source\repos\Digital Falshcard Program\Digital Falshcard Program\obj\Debug\Digital_Falshcard_Program.Properties.Resources.resources
+C:\Users\User\source\repos\Digital Falshcard Program\Digital Falshcard Program\obj\Debug\Digital Falshcard Program.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Digital Falshcard Program\Digital Falshcard Program\obj\Debug\Digital Falshcard Program.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Digital Falshcard Program\Digital Falshcard Program\obj\Debug\Digital Falshcard Program.exe
+C:\Users\User\source\repos\Digital Falshcard Program\Digital Falshcard Program\obj\Debug\Digital Falshcard Program.pdb
