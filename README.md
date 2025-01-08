@@ -1,4 +1,4 @@
-# Digital Flashcard Program Documentation
+# CardUp Documentation
 
 ## Overview
 
@@ -16,7 +16,7 @@ public class Flashcard
     public string Question { get; set; }  // The question on the flashcard
     public string Answer { get; set; }    // The answer to the flashcard's question
 }
-
+```
 
 ### FlashCardParser Class
 
