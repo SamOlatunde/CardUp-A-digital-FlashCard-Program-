@@ -259,10 +259,3 @@ This method displays the previous flashcard by updating the `currentCardIndex` a
 5. **Get helpful messages** when there are issues like no cards loaded or invalid format.
 
 ---
-
-## Conclusion
-
-The Digital Flashcard Program is a simple yet effective tool for learning with flashcards. It offers a user-friendly interface for loading, viewing, and navigating through flashcards with built-in error handling and guidance.
-```
-
-This Markdown document provides a comprehensive explanation of the provided code, including details about the classes, methods, and features. Let me know if you need any further adjustments!
